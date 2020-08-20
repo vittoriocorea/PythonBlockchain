@@ -1,5 +1,5 @@
 # PythonBlockchain
-#
+
 # Initializing your blockchain
 blockchain = []
 
